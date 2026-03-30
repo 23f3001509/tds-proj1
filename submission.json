@@ -1,0 +1,7 @@
+{
+  "prompt": "A powerful emotional visual showing Earth gradually burning and turning into ash from rising carbon emissions, no charts, no text, cinematic lighting, dark atmosphere, dramatic, highly detailed, symbolic representation of climate crisis",
+  "model": "DALL·E 3",
+  "dataset_name": "Global CO2 Emissions",
+  "dataset_url": "https://ourworldindata.org/co2-emissions",
+  "insight": "CO2 emissions are rapidly increasing and causing severe environmental damage"
+}
